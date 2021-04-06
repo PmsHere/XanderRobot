@@ -17,7 +17,7 @@
 
 # XanderRobot
 Me On Telegram [᥊ꪖꪀᦔɛʀ #PmsHere](https://t.me/XanderRoBot)
-This is just a demo bot.. Don't try to add to your group.. Create your own bot 
+This is just a demo bot.. 
  
 ## CREDITS
 
