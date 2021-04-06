@@ -17,7 +17,6 @@
 
 # XanderRobot
 Me On Telegram [᥊ꪖꪀᦔɛʀ #PmsHere](https://t.me/XanderRoBot)
-This is just a demo bot.. 
  
 ## CREDITS
 
