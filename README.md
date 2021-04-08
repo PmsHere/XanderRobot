@@ -1,24 +1,21 @@
-# TeamEdge
-## Reports
+# XanderRobot
+## Telegram Bot
 
-We aim to keep telegram spam and scam free, and safe for all to use.
+Me On Telegram [Xander](https://t.me/XanderRoBot)
+This is just a demo bot.. Don't try to add to your group.. Create your own bot 
 
-## Reporting
-Reporting your issues to us is simple. 
-1. By joining [the support group](https://t.me/joinchat/SH9DNZQhgaAjoalg).
-You can join our support group on telegram and send us your issue. 
+## Terms & Conditions
 
-2. By using [@ReportRoBot](https://t.me/ReportRoBot).
-- You can add ReportRoBot to your groups and use `/report` as reply to the message you want us to take action on.
-- You can start the bot and send the report there.
-- In case you want to stay anonymous and not reveal your name in the report, you may Direct Message  [@ReportRoBot](https://t.me/ReportRoBot) and our admins would reply to you!
+> - Only your first name, last name (if any) and username (if any) is stored for a convenient communication!
+> - No group ID or it's messages are stored, we respect everyone's privacy.
+> - Messages between Bot and you is only infront of your eyes and there is no backuse of it.
+> - Watch your group, if someone is spamming your group, you can use the report feature of your Telegram Client.
+> - Do not spam commands, buttons, or anything in bot PM.
 
-> While submitting a report, there must be -
-> - Vaild ScreenShots as proof.
-> - A ScreenShot of the users profile along with his Telegram UserID.
-> - Where the incident occured, in group/PM.
+NOTE: Terms and Conditions might change anytime
+
 
 # More Info
-Visit us on telegram, [@Team_Edge](https://t.me/Team_Edge) to know more.
+Visit us on telegram, [ⱮͲ_OᖴᖴIᑕIᗩᒪ](https://t.me/MT_Officials) to know more.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxditya%2FTeamEdge&count_bg=%23FC1123&title_bg=%23000000&icon=expertsexchange.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://t.me/Team_Edge)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPmsHere%2FXanderRobot&count_bg=%23FC1123&title_bg=%23000000&icon=expertsexchange.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://t.me/MT_officials)
