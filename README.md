@@ -15,9 +15,9 @@ An powerful group management bot build on python with Some cool stuff..
 NOTE: Terms and Conditions might change anytime
 
 ## Recently Updated
-> - •Added Artificial intelligence.
-> - •Added Telegraph support. 
-> - •Added Music/video(YTDL) support.
+> - Added Artificial intelligence.
+> - Added Telegraph support. 
+> - Added Music/video(YTDL) support.
 
 # More Info
 Visit us on telegram, [ⱮͲ_OᖴᖴIᑕIᗩᒪ](https://t.me/MT_Officials) to know more.
