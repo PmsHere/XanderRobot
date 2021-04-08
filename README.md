@@ -1,7 +1,7 @@
-# XanderRobot
+# ᥊ꪖꪀᦔɛʀ #PmsHere
 ## Telegram Bot
 
-Me On Telegram [Xander](https://t.me/XanderRoBot)
+Me On Telegram [᥊ꪖꪀᦔɛʀ](https://t.me/XanderRoBot)
 An powerful group management bot build on python with Some cool stuff.. 
 
 ## Terms & Conditions
