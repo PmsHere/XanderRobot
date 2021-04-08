@@ -2,7 +2,7 @@
 ## Telegram Bot
 
 Me On Telegram [Xander](https://t.me/XanderRoBot)
-This is just a demo bot.. Don't try to add to your group.. Create your own bot 
+An powerful group management bot build on python with Some cool stuff.. 
 
 ## Terms & Conditions
 
