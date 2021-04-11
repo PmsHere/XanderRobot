@@ -12,7 +12,7 @@ An powerful group management bot build on python with Some cool stuff..
 > - Watch your group, if someone is spamming your group, you can use the report feature of your Telegram Client.
 > - Do not spam commands, buttons, or anything in bot PM.
 
-**NOTE: Terms and Conditions might change anytime
+**NOTE: Terms and Conditions might change anytime**
 
 ## Recently Updated
 > - Added Artificial intelligence.
