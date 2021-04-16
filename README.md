@@ -18,6 +18,7 @@ An powerful group management bot build on python with Some cool stuff..
 > - Added Artificial intelligence.
 > - Added Telegraph support. 
 > - Added Music/video(YTDL) support.
+> - Added @Team_Edge Ban Checking module
 
 # More Info
 Visit us on telegram, [ⱮͲ_OᖴᖴIᑕIᗩᒪ](https://t.me/MT_Officials) to know more.
