@@ -16,6 +16,7 @@ An powerful group management bot build on python with Some cool stuff..
 
 ## Recently Updated
 > - Added TimeZone
+> - Added Zombie module
 > - Added Google support 
 > - Fixed Translation bugs
 > - Added dictionary  
