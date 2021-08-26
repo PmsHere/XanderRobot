@@ -32,8 +32,5 @@ Visit us on telegram, [ⱮͲ_OᖴᖴIᑕIᗩᒪ](https://t.me/MT_Officials) to k
 
 ## CREDITS
 
-▪️ [PaulSonOfLars](https://github.com/PaulSonOfLars/tgbot)
 ▪️ [Aditya🇮🇳](https://github.com/Xditya)
 ▪️ [✨𝐒υͣʀͫѵ𝖎ѵ✺ʀ™️✨⟁⃤](https://github.com/Sur-vivor/CinderellaProBot)
-▪️ [ㅤ✨𝐌𝐫 𝐃𝐚𝐫𝐤 𝐏𝐫𝐢𝐧𝐜𝐞✨ㅤ ](https://github.com/Mr-Dark-Prince)
-▪️ [⚊❮❮❮❮᚜「𝙨𝙝є𝙧𝙡σ𝙘𝙠」᚛❯❯❯❯⚊〄🇬🇧](https://github.com/Mr-SHRLCK)
